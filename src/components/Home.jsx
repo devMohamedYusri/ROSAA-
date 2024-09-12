@@ -1,5 +1,5 @@
 import { Dot } from 'lucide-react';
-import Button from './Button';
+import Button from './Button.jsx';
 function Home({ text, pText, btext, ...rest }) {
     return (
         <section className="w-full bg-[url('/main2.jpeg')] bg-cover bg-left h-[94vh] pl-[5%]" >

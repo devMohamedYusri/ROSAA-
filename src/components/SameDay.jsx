@@ -1,6 +1,6 @@
-import Button from './Button'
-import SemiTitle from './SemiTitle'
-import Title from './Title'
+import Button from './Button.jsx'
+import SemiTitle from './SemiTitle.jsx'
+import Title from './Title.jsx'
 export default function SameDay() {
     return (
         <section className="flex justify-between h-[60vh]">

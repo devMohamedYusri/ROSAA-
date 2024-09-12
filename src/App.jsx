@@ -1,14 +1,14 @@
 import './App.css';
-import EventMessage from './components/EventMessage';
-import Home from './components/home';
-import Nav from './components/Nav';
-import About from './components/About';
-import Browse from './components/Browse';
-import BestSeller from './components/BestSeller';
-import Collection from './components/Collection';
-import SameDay from './components/SameDay';
-import TrainCards from './components/TrainCards';
-import Offer from './components/Offer';
+import EventMessage from './components/EventMessage.jsx';
+import Home from './components/home.jsx';
+import Nav from './components/Nav.jsx';
+import About from './components/About.jsx';
+import Browse from './components/Browse.jsx';
+import BestSeller from './components/BestSeller.jsx';
+import Collection from './components/Collection.jsx';
+import SameDay from './components/SameDay.jsx';
+import TrainCards from './components/TrainCards.jsx';
+import Offer from './components/Offer.jsx';
 function App() {
   return (
     <>

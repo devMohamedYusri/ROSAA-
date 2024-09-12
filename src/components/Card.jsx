@@ -1,4 +1,4 @@
-import CardImg from "./CardImg";
+import CardImg from "./CardImg.jsx";
 
 export default function Card({img,title,price,className}) {
     return (

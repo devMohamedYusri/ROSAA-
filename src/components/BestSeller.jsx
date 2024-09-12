@@ -1,6 +1,6 @@
-import SemiTitle from './SemiTitle'
-import Title from './Title'
-import Card from './Card'
+import SemiTitle from './SemiTitle.jsx'
+import Title from './Title.jsx'
+import Card from './Card.jsx'
 import '../style/TopNav.css'
 import { Dot } from 'lucide-react'
 export default function BestSeller() {

@@ -1,5 +1,5 @@
-import BottomNav from "./BottomNav";
-import TopNav from "./TopNav";
+import BottomNav from "./BottomNav.jsx";
+import TopNav from "./TopNav.jsx";
 
 export default function Nav() {
     return (

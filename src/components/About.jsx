@@ -1,7 +1,7 @@
-import Button from './Button'
-import SemiTitle from './SemiTitle'
-import Title from './Title'
-import SmallP from './SmallP';
+import Button from './Button.jsx'
+import SemiTitle from './SemiTitle.jsx'
+import Title from './Title.jsx'
+import SmallP from './SmallP.jsx';
 export default function About() {
     return (
         <section className="flex justify-between">

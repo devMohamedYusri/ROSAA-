@@ -1,7 +1,7 @@
-import Button from "./Button";
-import SemiTitle from "./SemiTitle";
-import SmallP from "./SmallP";
-import Title from "./Title";
+import Button from "./Button.jsx";
+import SemiTitle from "./SemiTitle.jsx";
+import SmallP from "./SmallP.jsx";
+import Title from "./Title.jsx";
 
 export default function Offer() {
     const offerContent = {

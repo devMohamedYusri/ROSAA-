@@ -1,6 +1,6 @@
-import CardImg from './CardImg'
-import SemiTitle from './SemiTitle'
-import Title from './Title'
+import CardImg from './CardImg.jsx'
+import SemiTitle from './SemiTitle.jsx'
+import Title from './Title.jsx'
 export default function About() {
     return (
         <section className="flex justify-between h-[130vh] bg-[url('/img06.png')] bg-no-repeat">

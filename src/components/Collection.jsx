@@ -1,6 +1,6 @@
-import SemiTitle from './SemiTitle'
-import Title from './Title'
-import CardImg from './CardImg';
+import SemiTitle from './SemiTitle.jsx'
+import Title from './Title.jsx'
+import CardImg from './CardImg.jsx';
 export default function Collection() {
     return (
         <section className="w-screen flex flex-col justify-center py-20">
