@@ -1,6 +1,6 @@
 import './App.css';
 import EventMessage from './components/EventMessage.jsx';
-import Home from './components/home.jsx';
+import Home from './components/Home.jsx';
 import Nav from './components/Nav.jsx';
 import About from './components/About.jsx';
 import Browse from './components/Browse.jsx';

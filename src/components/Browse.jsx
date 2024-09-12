@@ -1,7 +1,7 @@
 import CardImg from './CardImg.jsx'
 import SemiTitle from './SemiTitle.jsx'
 import Title from './Title.jsx'
-export default function About() {
+export default function Browse() {
     return (
         <section className="flex justify-between h-[130vh] bg-[url('/img06.png')] bg-no-repeat">
             <img src="/browse1.webp" alt="man-in-field" className="w-[30%] rounded-tr-[30%] rounded-bl-[30%] h-screen mt-[7%]" />
